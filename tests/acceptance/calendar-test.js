@@ -1,5 +1,6 @@
 import { test } from 'qunit';
 import moduleForAcceptance from 'ember-power-calendar-import-bug/tests/helpers/module-for-acceptance';
+import { calendarCenter } from 'ember-power-calendar/test-support';
 import $ from 'jquery';
 
 moduleForAcceptance('Acceptance | calendar');
