@@ -33,7 +33,7 @@
     "ember-data": "~2.16.2",
     "ember-export-application-global": "^2.0.0",
     "ember-load-initializers": "^1.0.0",
-    "ember-power-calendar": "^0.6.1",
+    "ember-power-calendar": "backspace/ember-power-calendar#dom-helper-dependency",
     "ember-resolver": "^4.0.0",
     "ember-source": "~2.16.0",
     "ember-welcome-page": "^3.0.0",
